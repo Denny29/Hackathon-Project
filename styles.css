@@ -1,0 +1,27 @@
+.inputs{
+ justify-content: space-around;   
+}
+.vars{
+justify-content: space;  
+}
+body{
+  background-image: url("https://www.thoughtco.com/thmb/HxJd3LNJ9O0ktytbgfBVnteXfQs=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/hand-reaching-up-through-surface-of-open-ocean-92913713-59b0038cc4124400108b3229.jpg");
+ background-repeat: no-repeat;
+ background-size:     cover; 
+ 
+}
+
+img{
+   
+    height:250px;
+ width:455px;
+  display: block;
+  padding-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+}
+h2{
+ padding-top: 50px;
+  opacity: 11;
+  animation: fadeIn 1.8s forwards;
+}
